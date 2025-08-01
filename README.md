@@ -29,28 +29,16 @@ A simple client-server based **Chat Application** built using **Java**, **Swing*
    cd Chat-application
 Compile both files:
 
-bash
-Copy
-Edit
 javac Chatting\ Application/src/chatting/application/Server.java
 javac Chatting\ Application/src/chatting/application/Client.java
 Run the Server:
 
-bash
-Copy
-Edit
 java chatting.application.Server
 Open another terminal window and run the Client:
 
-bash
-Copy
-Edit
 java chatting.application.Client
 
 📁 Folder Structure
-arduino
-Copy
-Edit
 Chat-application/
 │
 ├── Chatting Application/
@@ -68,9 +56,6 @@ Anshul Dhiman – @AnshulExplorer
 📜 License
 This project is open-source and free to use for educational purposes.
 
-yaml
-Copy
-Edit
 
 ---
 git add README.md
